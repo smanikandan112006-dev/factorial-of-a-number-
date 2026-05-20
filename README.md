@@ -54,11 +54,12 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+<img width="774" height="356" alt="image" src="https://github.com/user-attachments/assets/2992b741-fedb-4dee-ac1b-daa9d82726bd" />
 
 ---
 MANUAL CALCULATIONS
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c5a0d2b0-36da-4a1f-b396-04bc6a9dfd07" />
 ---
 
 RESULT
@@ -66,5 +67,3 @@ RESULT
 Thus, the factorial of a number was calculated and executed successfully using 8051 Keil.
 
 ---
-
-
